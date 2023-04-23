@@ -3,7 +3,7 @@ import './CardWidget.css'
 
 const CardWidget = () => {
 
-        const ImgCarrito = "https://w7.pngwing.com/pngs/387/168/png-transparent-shopping-cart-button-graphy-earring-shopping-cart-angle-rectangle-logo.png"
+        const ImgCarrito = "https://png.pngtree.com/element_our/20200702/ourlarge/pngtree-black-and-white-icon-shopping-cart-collection-image_2291887.jpg"
     return (
     <div>
         <img className='ImgCarrito' src={ImgCarrito} alt="Carrito" />
